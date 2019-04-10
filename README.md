@@ -1,7 +1,7 @@
 # online-tic-tac-toe
 Online multiplayer tic-tac-toe
 
-# Technologies/libraries
+## Technologies/libraries
 NodeJS
 ExpressJS
 Socket.io
